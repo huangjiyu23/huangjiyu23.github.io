@@ -32,4 +32,6 @@ M.S. in Artificial Intelligence, 2025 - Present
 B.S. in Computer Science and Technology, 2020 - 2024
 
 
+## Contact
 
+Email: [2025172376@mail.hfut.edu.cn](mailto:2025172376@mail.hfut.edu.cn)
