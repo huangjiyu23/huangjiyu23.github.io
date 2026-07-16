@@ -32,7 +32,4 @@ M.S. in Artificial Intelligence, 2025 - Present
 B.S. in Computer Science and Technology, 2020 - 2024
 
 
-## News
 
-- 2026: Research on source-free domain adaptive object detection.
-- 2025: Started Master's study in Artificial Intelligence.
