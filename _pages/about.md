@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Jiyu Huang"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
 
 I am a Master's student at **Hefei University of Technology**.
 
