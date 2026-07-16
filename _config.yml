@@ -21,15 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
+  name             : "Jiyu Huang"
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Graduate Student at Hefei University of Technology"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Graduate Student in Artificial Intelligence"
+  location         : "Hefei, China"
+  employer         : "Hefei University of Technology"
 
   # Academic websites
   academia         : # URL
